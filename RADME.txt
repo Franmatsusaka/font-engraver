@@ -1,0 +1,3 @@
+In order to restoring the program in case it crashes:
+1. Run regedit.exe
+2. delete the folder [HKEY_CURRENT_USER\Software\JavaSoft\Prefs\com\kitmaker\fontcreator]
