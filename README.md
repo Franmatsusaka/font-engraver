@@ -1,1 +1,2 @@
 # font-engraver
+Font Engraver is a tool that was created to develop highly optimized graphic fonts for mobile games from the first and second decade of the 2000s. Nowadays it no longer has a reason to exist, since mobile devices are capable of loading, managing and rendering fonts using ttf files directly. However, this tool can still have a second life, being used to create fonts for retro machines.
